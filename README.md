@@ -1,4 +1,4 @@
-# New-Bank-Account-Application
+# New Bank Account Application
 ## Overview
 An appplication that handling new bank account requests. Below is how the application works:   
    
